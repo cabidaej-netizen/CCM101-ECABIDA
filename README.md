@@ -1,5 +1,5 @@
-Cloud Computing Laboratory Portfolio
-About Me
+# Cloud Computing Laboratory Portfolio
+## About Me
 
 Hello! My name is Excel john Cabida. I am a Bachelor of Science in Information Technology student interested in learning about cloud computing, Linux, networking, and other information technology concepts.
 
